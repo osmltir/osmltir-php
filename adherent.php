@@ -23,7 +23,7 @@
                 {
                 die('Erreur : '.$e->getMessage());
                 }
- 
+                
                 // On récupère les 5 derniers billets
                 $req = $bdd->query('SELECT id, titre, contenu, DATE_FORMAT(date_creation, \'%d/%m/%Y à %Hh%imin%ss\') AS date_creation_fr FROM billets ORDER BY date_creation DESC LIMIT 0, 5');
  
