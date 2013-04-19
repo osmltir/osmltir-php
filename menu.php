@@ -4,7 +4,7 @@
                 <ul id="menubarre">
                     <li><a href="accueil.php">Accueil</a></li>
                     <li><a href="contact.php">Contact</a></li>
-                    <li><a href="adherent.php">Adhérent</a></li>
+                    <li><a href="adherent.php">Adh&#233rent</a></li>
                     <li><a href="nous.php">Qui sommes nous ?</a></li>
                     <li><a href="liens.php">Liens</a></li>
                 </ul>
