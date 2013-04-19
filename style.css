@@ -36,7 +36,7 @@ section
 	background:url(img/logo1.png)center no-repeat;
 }
 
-#entete
+.element_entete
 {
     widht: 701px;
     height:151px;
