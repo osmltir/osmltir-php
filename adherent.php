@@ -2,7 +2,7 @@
 
 <html>
     <head>
-        <meta charset="utf-8" />
+        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
         <link rel="stylesheet" href="style.css"/>
         <title>OSML Tir</title>
         <link rel="icon" href="img/favicon.ico" type="image/ico" />
