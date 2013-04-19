@@ -1,6 +1,6 @@
 html 
 {
-	background:url(img/brillant.png) repeat center top;  
+	background:white;  
 }
 
 body
@@ -11,22 +11,22 @@ body
 	background:url(img/brillant.png) repeat center top; 
 }
 
+header
+{ 	
+        margin: auto;
+	width:745px;
+	height:200px;
+	margin-bottom: 15px;
+}
+
 section
 {
 	width:404px;
 	height:400px;
-	background:white;
 	margin:auto;
-	margin-top:300px;
+	margin-top:50px;
 	border-radius: 200px 200px;
 	background:url(img/logo1.png)center no-repeat;
-}
-
-header
-{ 	
-	width:745px;
-	height:22px;
-	margin-bottom: 15px;
 }
 
 .carre
