@@ -11,9 +11,7 @@
 		<body>
 			<header>
                             <?php include("entete.php"); ?>
-                            <h1> Vous êtes ? </h1>
 			</header>
-		
 			<section>
 				<a href="page1.html"> <div class="carre" id="carre1"> <br/> <br/> <br/> <br/> <br/>Découvrir <br/> le tir sportif !</div> </a>
 				<a href="page2.html"> <div class="carre" id="carre2"> <br/> <br/> <br/> <br/> <br/>Découvrir <br/> l'OSML Tir !</div> </a>

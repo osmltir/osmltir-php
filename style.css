@@ -16,7 +16,14 @@ header
         margin: auto;
 	width:745px;
 	height:200px;
-	margin-bottom: 15px;
+	margin-bottom:15px;
+        color:black;
+}
+
+h1
+{
+    margin: auto;
+    color: black;
 }
 
 section
@@ -27,6 +34,12 @@ section
 	margin-top:50px;
 	border-radius: 200px 200px;
 	background:url(img/logo1.png)center no-repeat;
+}
+
+#entete
+{
+    widht: 701px;
+    height:151px;
 }
 
 .carre
