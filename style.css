@@ -20,12 +20,13 @@ header
         color:black;
 }
 
-h1
+.question
 {
-    margin: auto;
-    color: black;
+    font-family:verdana, sans-serif;
+    text-align:center;
+    text-decoration:none;
+    font-weight:bold;
 }
-
 section
 {
 	width:404px;
@@ -34,12 +35,6 @@ section
 	margin-top:50px;
 	border-radius: 200px 200px;
 	background:url(img/logo1.png)center no-repeat;
-}
-
-.element_entete
-{
-    widht: 701px;
-    height:151px;
 }
 
 .carre
@@ -53,7 +48,6 @@ section
 	font-size:90%;
 	color:black; 
 }
-
 
 #carre1
 {	
@@ -124,10 +118,10 @@ a, a:hover
 
 #menubarre /* Liste */	
 {
-	padding : 0; /* pas de marge int�rieure */
-	margin-bottom:15px; /* marge inf�rieur */
-	list-style : none; /* on supprime le style par d�fault de la liste */
-	line-height : 21px; /* on d�fini une hauteur pour chaque �l�ment */
+	padding : 0; /* pas de marge intérieure */
+	margin-bottom:15px; /* marge inférieur */
+	list-style : none; /* on supprime le style par défault de la liste */
+	line-height : 21px; /* on défini une hauteur pour chaque élément */
 	text-align : center; /* on centre le texte qui se trouve dans la liste */
 }
 
