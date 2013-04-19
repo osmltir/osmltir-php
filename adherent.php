@@ -12,8 +12,6 @@
             <?php include("entete.php"); ?>
             <?php include("menu.php"); ?>
         </header>
-        
-       
             <article>
                 <?php
                 // Connexion à la base de données
@@ -44,7 +42,6 @@
                   echo nl2br(htmlspecialchars($donnees['contenu']));
                   ?>
                  <br />
-                   <em><a href="commentaires.php?billet=<?php echo $donnees['id']; ?>">Commentaires</a></em>
                 </p>
                 </div>
                 <?php

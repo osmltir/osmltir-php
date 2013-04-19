@@ -159,3 +159,29 @@ a, a:hover
 	/* pour ie qui ne reconnait pas "transparent" */
 	border-right : 1px solid #fff; /* on met une bordure blanche à droite de chaque élément */
 }
+
+
+/* Système blog */
+
+h1, h3
+{
+    text-align:center;
+}
+h3
+{
+    background-color:black;
+    color:yellow;
+    font-size:0.9em;
+    margin-bottom:0px;
+}
+.news p
+{
+    background-color:red;
+    margin-top:0px;
+}
+.news
+{
+    width:70%;
+    margin:auto;
+}
+ 
